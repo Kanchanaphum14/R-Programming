@@ -89,3 +89,6 @@ game <- function(){
       
   }
 }
+
+#start game
+game()
