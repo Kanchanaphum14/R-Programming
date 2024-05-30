@@ -1,6 +1,6 @@
 # R Programming by Kanchanaphum Khammanee
 
-## Project-Rock-Paper-Scissors Game
+## Project Rock-Paper-Scissors Game
 
 ### Sample Image
 
